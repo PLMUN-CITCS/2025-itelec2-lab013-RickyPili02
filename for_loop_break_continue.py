@@ -9,5 +9,3 @@ for num in numbers:
             break  # Exit the loop completely
         
         print(num)
-            
-            
